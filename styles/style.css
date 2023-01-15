@@ -128,8 +128,8 @@ nav li{
     position: absolute;
     width: 5px;
     height: 106px;
-    left: 300px;
-    top: 2350px;
+    left: 150px;
+    top: 2100px;
     right: 21px;
     background-color: #FF900E;
 }
@@ -165,20 +165,20 @@ nav li{
 }
 .feature-btn{
     position: absolute;
-    left: 850px;
-    top: 3170px;
-    width: 342px;
-    height: 200px;
+    left: 600px;
+    top: 2900px;
+    width: 300px;
+    height: 150px;
     color: #FFFFFF;
     background: #FF900E;
     border-style: none;
     border-radius: 8px;
-    padding: 45px 42px;
+    padding: 30px 30px;
 }
 
 .bold{
     font-weight: 700;
-    font-size: 55px;
+    font-size: 45px;
 }
 
 
@@ -273,11 +273,11 @@ nav li{
 
 .footer{
     margin-top: 130px;
-    margin-left: 240px;
+    margin-left: 150px;
     margin-bottom: 220px;
     background-color: #fdd39f;
     height: 100px;
-    width: 1440px;
+    width: 1240px;
     border-radius: 10px;
 }
 .footer-discription{
